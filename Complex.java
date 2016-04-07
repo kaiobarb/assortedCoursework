@@ -1,11 +1,6 @@
 //-----------------------------------------------------------------------------
 //   Complex.java
 //   Represents complex numbers as a pair of doubles
-//
-//   pa6
-//   Fill in the function definitions below.  Write a ComplexTest class to
-//   test all your methods. See notes from 5-22-15 for definitions of the
-//   complex arithmetic operations.
 //-----------------------------------------------------------------------------
 
 class Complex{
