@@ -1,35 +1,6 @@
 //-----------------------------------------------------------------------------
 //  ComplexTest.java
 //  Test the Complex class
-//
-//  Submit this file with pa6.  Do not alter it in any way.  Use the 
-//  accompanying Makefile to create the executable Jar file ComplexTest.  
-//  Run the program by doing
-//
-//  % ComplexTest input_file output_file
-//
-//  An input file consists of 10 lines of text, with one complex number on 
-//  each line.  The output file has the very same format, so you can use your 
-//  output as input on another run.
-//
-//  Use the input file file1 to create the sequence file2, file3, file4, file5.
-//  Each file in this sequence is the output of the previous file.  You can 
-//  therefore test your Complex class by doing the following commands:
-//
-//  % make
-//  % ComplexTest file1 f2
-//  % ComplexTest f2 f3
-//  % ComplexTest f3 f4
-//  % ComplexTest f4 f5
-//  
-//  If your sequence f2, f3, f4, f5 is identical to my sequence file2, file3
-//  file4, file5, then you pass the test.  You can check this using the Unix
-//  command diff.  For instance, if you do
-//
-//  % diff file5 f5
-//
-//  and get no output, then there is no difference between files file5 and f5.
-//  
 //-----------------------------------------------------------------------------
 import java.util.Scanner;
 import java.io.*;
