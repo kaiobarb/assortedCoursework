@@ -2,7 +2,7 @@
  * Kaio Barbosa
  * ksbarbos
  * lab3
- * (Modified for lab3): This program calculates the time it takes to mow a lawn around a house of dimensions specified by the user. */
+ * This program calculates the time it takes to mow a lawn around a house of dimensions specified by the user. */
  import java.util.Scanner;
  
  class Lawn{
