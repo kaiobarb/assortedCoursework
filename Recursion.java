@@ -28,7 +28,7 @@ class Recursion {
    // reverseArray3()
    // Reverses the subarray X[i...j].
    static void reverseArray3(int[] X, int i, int j){
-       int q = (i+j)/2;
+       int q = (i+j+1)/2;
        int temp;
        if(i < q){
 	   temp = X[i];
