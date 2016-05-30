@@ -1,18 +1,7 @@
-/* 
- * Kaio Barbosa
- * ksbarbos
- * 12B
- * pa5
- * 22 May 2016
- * README
- */
 
 This program has defined operations that allows a "key" to be associated with a "value" have the pair of values be operated on by methods defined in Dictionary.java
-
-INSTRUCTIONS:
-Use the provided Makefile to compile all components of the program and run by typing:
-% DictionaryClient
-DictionaryClient will test all functionalities of the Dictionary ADT
+Written in C, using hashmaps to store key/value information and resolving collisions by chaining
+Use provided Makefile to compile.
 
 FILES INCLUDED:
 Makefile
