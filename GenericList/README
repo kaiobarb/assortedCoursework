@@ -1,13 +1,4 @@
-/* 
- * Kaio Barbosa
- * ksbarbos
- * 12M
- * lab6
- * 22 May 2016
- * README
- */
-
-This program specifies and tests a generic List ADT
+This program specifies and tests a List ADT using Generics
 
 INSTRUCTIONS:
 Use the provided Makefile to compile all components of the program and run by typing:
