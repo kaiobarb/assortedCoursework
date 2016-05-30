@@ -1,0 +1,25 @@
+/* 
+ * Kaio Barbosa
+ * ksbarbos
+ * 12M
+ * lab6
+ * 22 May 2016
+ * README
+ */
+
+This program specifies and tests a generic List ADT
+
+INSTRUCTIONS:
+Use the provided Makefile to compile all components of the program and run by typing:
+% ListClient
+ListClient will test all functionalities of the Dictionary ADT
+
+FILES INCLUDED:
+Makefile
+List.java
+ListInterface.java
+ListTest.java
+ListClient.java
+ListIndexOutOfBoundsException.java
+README
+
